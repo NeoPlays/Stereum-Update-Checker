@@ -132,3 +132,4 @@ dist
 # app output
 updates.json
 notes.txt
+package-lock.json
