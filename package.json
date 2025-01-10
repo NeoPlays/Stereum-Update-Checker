@@ -1,0 +1,22 @@
+{
+  "name": "stereum-update-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoPlays/Stereum-Update-Checker.git"
+  },
+  "author": "NeoPlays",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeoPlays/Stereum-Update-Checker/issues"
+  },
+  "homepage": "https://github.com/NeoPlays/Stereum-Update-Checker#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
